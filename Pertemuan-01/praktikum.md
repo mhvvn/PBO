@@ -31,7 +31,7 @@ Setelah mengikuti praktikum ini, mahasiswa mampu:
 # Task 
 
 - Buatlah akun **google colab** untuk menulis dan menjalankan program **python** 
-- Buka file berjudul **Analogi_Pendekatan_OOP.ipynb** atau klik link berikut ini [Teks Link](/Pertemuan-01/Analogi_Pendekatan_OOP.ipynb)
+- Buka file berjudul **Analogi_Pendekatan_OOP.ipynb** atau klik link berikut ini [Open File](/Pertemuan-01/Analogi_Pendekatan_OOP.ipynb)
 - Buat file baru pada google colab dengan judul pertemun 01, lalu tulis ulang 4 cell contoh program prosedural dan OOP pada file tersebut.
 - Jalankan setiap cell program yang sudah di tulis sebelumnya
 - amati perbedaanya dan tulisakan antara kedua pendekatan programing tersebut.
