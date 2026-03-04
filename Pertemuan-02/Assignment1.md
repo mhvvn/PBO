@@ -40,7 +40,7 @@ Buatlah sebuah program Python untuk mensimulasikan kondisi tersebut dengan mengg
 2 untuk mengurangi kecepatan,
 3 untuk melihat status kendaraan, dan
 4 untuk keluar dari program.
-Gunakan percabangan if-elif-else untuk memproses pilihan yang dimasukkan pengguna. Ketentuan dalam program adalah kecepatan maksimal kendaraan sebesar 120 km/jam dan kecepatan tidak boleh kurang dari 0 km/jam. Jika kecepatan sama dengan 0, tampilkan pesan "Kendaraan berhenti", sedangkan jika kecepatan lebih dari 0, tampilkan pesan "Kendaraan berjalan".
+Gunakan percabangan if-elif-else untuk memproses pilihan yang dimasukkan pengguna. Ketentuan dalam program adalah kecepatan maksimal kendaraan sebesar 120 km/jam dan kecepatan tidak boleh kurang dari 0 km/jam. Jika kecepatan sama dengan 0, tampilkan pesan "Kendaraan berhenti", sedangkan jika kecepatan lebih dari 0, tampilkan pesan "Kendaraan berjalan")).
 ---
 
 - 5. Sebuah kendaraan memiliki kecepatan awal 0 km/jam dan bahan bakar awal sebanyak 50 liter. Kendaraan dapat berjalan dengan menambah kecepatan, melambat dengan mengurangi kecepatan, atau berhenti jika kecepatan menjadi 0 km/jam. Setiap kali kendaraan berjalan (kecepatan > 0), bahan bakar akan berkurang 5 liter setiap putaran menu. Program harus terus berjalan sampai pengguna memilih keluar atau bahan bakar habis.
