@@ -1,5 +1,5 @@
 
-# PRAKTIKUM: Analogi Pemrograman Object Oriented Programming (OOP) 
+# PRAKTIKUM: Object Oriented Programming (OOP) 
 
 **Mata Kuliah:** Pemrograman Berorientasi Object
  
